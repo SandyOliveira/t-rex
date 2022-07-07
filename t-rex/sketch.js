@@ -2,6 +2,11 @@ var JOGAR = 1;
 var ENCERRAR = 0;
 var estadoJogo = JOGAR;
 
+//Modiuficando arquivo do eduardo
+var espaco;
+
+
+
 var trex, trex_correndo, trex_colidiu;
 var solo, soloinvisivel, imagemdosolo;
 
